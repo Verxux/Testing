@@ -18,7 +18,7 @@
         "uniques": [
             "All adjacent units heal [50] HP <for [3] movement>",
           "[This Unit] heals [100] HP <upon entering combat>",
-          "All adjacent enemy units have [Movement] reduced to [1]",
+          "[Target Unit] heals [10] HP"
         ],
         "promotions": ["Medic II", "Blitz"],
         "civilopediaText": [
