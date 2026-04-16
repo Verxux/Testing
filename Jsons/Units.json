@@ -1,1 +1,27 @@
-
+[
+{       
+        "name": "Gold Experience",
+        "unitType": "Sword",
+        "movement": 4,
+        "strength": 50,
+  	"upgradesTo": "Gold Experience Requiem",
+        "uniques": [
+            "All adjacent units heal [25] HP <for [3] movement",
+            "[+25]% Strength for every adjacent [All] unit","Unbuildable"
+        ],
+        "promotions": ["March", "Medic I"],
+}
+    {
+        "name": "Gold Experience Requiem",
+        "unitType": "Sword",
+        "movement": 5,
+        "strength": 100,
+        "uniques": [
+            "All adjacent units heal [50] HP <for [3] movement",
+          "[This Unit] heals [100] HP <upon entering combat>",
+          "All adjacent enemy units have [Movement] reduced to [1]",
+        ],
+        "promotions": ["Medic II", "Blitz"],
+        "civilopediaText": [
+            {"text": "Gold Experience Requiem — you will never reach the truth. Its presence rewrites reality itself, rendering all nearby allies unstoppable."}
+        ]
