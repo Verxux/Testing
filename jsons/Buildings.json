@@ -4,7 +4,16 @@
 		"hurryCostModifier": 5,
     	"isNationalWonder": true;
 	 	 "gold": 20,
-		"uniques": ["[1] free [Gold Experience] units appear","[-10]% Unhappiness from [Population] [in all non-occupied cities]"],
+		"uniques": ["Free [Gold Experience] appears","[-10]% Unhappiness from [Population] [in all non-occupied cities]","Cannot be purchased"],
    		 "quote": "'I, Giorno Giovanna, have a dream.' — Giorno",
   },
+	{
+		"name": "Grand Budapest Hotel",
+		"hurryCostModifier": 5,
+    	"isNationalWonder": true;
+	 	 "culture": 20,
+		"uniques": ["Free [Great Artist] appears","Cannot be purchased"],
+   		 "quote": "'There are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity' — M Gustave",
+  },
+	
 ]
