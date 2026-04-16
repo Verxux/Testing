@@ -7,10 +7,9 @@
   	"upgradesTo": "Gold Experience Requiem",
         "uniques": [
             "All adjacent units heal [25] HP <for [3] movement",
-            "[+25]% Strength for every adjacent [All] unit","Unbuildable"
-        ],
-        "promotions": ["March", "Medic I"],
-}
+            "[+25]% Strength for every adjacent [All] unit","Unbuildable"],
+        "promotions": ["March", "Medic I"]
+},
     {
         "name": "Gold Experience Requiem",
         "unitType": "Sword",
