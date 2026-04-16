@@ -6,7 +6,7 @@
         "strength": 50,
   	"upgradesTo": "Gold Experience Requiem",
         "uniques": [
-            "All adjacent units heal [25] HP <for [3] movement",
+            "All adjacent units heal [25] HP <for [3] movement>",
             "[+25]% Strength for every adjacent [All] unit","Unbuildable"],
         "promotions": ["March", "Medic"]
 },
@@ -16,7 +16,7 @@
         "movement": 5,
         "strength": 100,
         "uniques": [
-            "All adjacent units heal [50] HP <for [3] movement",
+            "All adjacent units heal [50] HP <for [3] movement>",
           "[This Unit] heals [100] HP <upon entering combat>",
           "All adjacent enemy units have [Movement] reduced to [1]",
         ],
