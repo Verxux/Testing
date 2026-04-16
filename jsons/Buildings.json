@@ -4,7 +4,7 @@
 		"hurryCostModifier": 5,
     	"isNationalWonder": true;
 	 	 "gold": 20,
-		"uniques": ["Free [Gold Experience] appears","[-10]% Unhappiness from [Population] [in all non-occupied cities]","Cannot be purchased"],
+		"uniques": ["Free [Gold Experience] appears","[-30]% Unhappiness from [Population] [in all cities]","Cannot be purchased"],
    		 "quote": "'I, Giorno Giovanna, have a dream.' — Giorno",
   },
 	{
