@@ -4,7 +4,7 @@
         "unitType": "Sword",
         "movement": 4,
         "strength": 70,
-        "uniqueTo": Wakanda
+        "uniqueTo": "Wakanda",
         "uniques": [
             "All adjacent units heal [+25] HP when healing",
             "[50] HP when healing","Unbuildable"],
@@ -18,9 +18,9 @@
         "unitType": "Sword",
         "movement": 5,
         "strength": 100,
-        "uniqueTo": Wakanda
+        "uniqueTo": "Wakanda",
         "uniques": [
-            "Blast radius [1]",
+            "Limited to [1] per civilization"
         ],
         "promotions": ["Shock I","Drill I", "Blitz"],
         
