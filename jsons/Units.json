@@ -3,26 +3,26 @@
         "name": "Gold Experience",
         "unitType": "Sword",
         "movement": 4,
-        "strength": 50,
-  	"upgradesTo": "Gold Experience Requiem",
+        "strength": 70,
+        "uniqueTo": Wakanda
         "uniques": [
-            "All adjacent units heal [25] HP <for [3] movement>",
-            "[+25]% Strength for every adjacent [All] unit","Unbuildable"],
+            "All adjacent units heal [+25] HP when healing",
+            "[50] HP when healing","Unbuildable"],
         "promotions": ["March", "Medic"]
+        "civilopediaText": [
+            {"text": "This is resolve! It is to carve out your destined path through the darkened wastes! — Giorno Giovanna"}
+        ]
 },
     {
-        "name": "Gold Experience Requiem",
+        "name": "Pain",
         "unitType": "Sword",
         "movement": 5,
         "strength": 100,
+        "uniqueTo": Wakanda
         "uniques": [
-            "All adjacent units heal [50] HP <for [3] movement>",
-          "[This Unit] heals [100] HP <upon entering combat>",
-          "[Target Unit] heals [10] HP"
+            "Blast radius [1]",
         ],
-        "promotions": ["Medic II", "Blitz"],
-        "civilopediaText": [
-            {"text": "Gold Experience Requiem — you will never reach the truth. Its presence rewrites reality itself, rendering all nearby allies unstoppable."}
-        ]
+        "promotions": ["Shock I","Drill I", "Blitz"],
+        
     }
             ]
