@@ -1,0 +1,8 @@
+  {
+		"name": "Passione",
+		"hurryCostModifier": 5,
+    	"isNationalWonder": true;
+	 	 "gold": 20,
+		"uniques": ["[1] free [Gold Experience] units appear","[-10]% Unhappiness from [Population] [in all non-occupied cities]"],
+   		 "quote": "'I, Giorno Giovanna, have a dream.' — Giorno",
+  },
