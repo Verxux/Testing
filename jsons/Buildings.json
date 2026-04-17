@@ -37,5 +37,15 @@
 		"uniques": ["Free [Pain] appears","New [Military] units start with [50] XP [in all cities]","Cannot be purchased"],
    		 "quote": "'A day may come when the courage of men fails... but it is not this day! This day we fight!' — Aragon",
   },
+	{
+		"name": "Ten tails",
+		"hurryCostModifier": 5,
+		"cost":100
+    	"isNationalWonder": true,
+	    "uniqueTo": "Wakanda",
+	 	 "gold": 20,
+		"uniques": ["Free [Juubidara] appears","All newly-trained [Military] units [in all cities] receive the [March] promotion","Cannot be purchased"],
+   		 "quote": "'For the sake of my dreams...I walk through hell...' — Obito Uchiha",
+  },
 		
 ]
