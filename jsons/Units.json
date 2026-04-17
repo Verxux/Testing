@@ -32,7 +32,7 @@
         "strength": 200,
         "uniqueTo": "Wakanda",
         "uniques": [
-            "Unbuildable","[This Unit] heals [3] HP <upon entering combat>"
+            "Unbuildable","[This Unit] heals [50] HP <upon entering combat>","Invisible to others"
         ],
         "promotions": ["Shock I","Drill I", "Blitz","March"],
         
