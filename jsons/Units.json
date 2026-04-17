@@ -7,7 +7,7 @@
         "uniqueTo": "Wakanda",
         "uniques": [
             "All adjacent units heal [+25] HP when healing",
-            "[50] HP when healing","Unbuildable"],
+            "[+50] HP when healing","Unbuildable"],
         "promotions": ["March", "Medic"]
         "civilopediaText": [
             {"text": "This is resolve! It is to carve out your destined path through the darkened wastes! — Giorno Giovanna"}
@@ -20,7 +20,7 @@
         "strength": 100,
         "uniqueTo": "Wakanda",
         "uniques": [
-            "Limited to [1] per civilization"
+            "Unbuildable"
         ],
         "promotions": ["Shock I","Drill I", "Blitz"],
         
