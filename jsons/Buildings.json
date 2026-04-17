@@ -24,7 +24,18 @@
     "isNationalWonder": true,
 	"cityStrength": 20,
     "uniqueTo": "Wakanda",
-		"uniques": ["Free [Pain] unit appears","[-99]% enemy spy effectiveness [in this city]","[5] free [Great Scientist] units appear"],
+		"uniques": ["[-99]% enemy spy effectiveness [in this city]","[5] free [Great Scientist] units appear"],
     "quote": "'It is said that in times of disorder, one who wields the Rinnegan is sent down from the heavens to become either a God of Creation who will calm the world or a God of Destruction who will reduce everything to nothingness.'— Jiraiya",
   },
+	{
+		"name": "Protector of World",
+		"hurryCostModifier": 5,
+		"cost":100
+    	"isNationalWonder": true,
+	    "uniqueTo": "Wakanda",
+	 	 "gold": 20,
+		"uniques": ["Free [Pain] appears","New [Military] units start with [50] XP [in all cities]","Cannot be purchased"],
+   		 "quote": "'A day may come when the courage of men fails... but it is not this day! This day we fight!' — Aragon",
+  },
+		
 ]
