@@ -14,7 +14,7 @@
     	"isNationalWonder": true,
 		"uniqueTo": "Wakanda",
 	 	 "culture": 20,
-		"uniques": ["[5] Free [Great Artist] units appear","Cannot be purchased"],
+		"uniques": ["[5] free [Great Artist] units appear","Cannot be purchased"],
    		 "quote": "'There are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity' — M Gustave",
   },
 	{
@@ -24,7 +24,7 @@
     "isNationalWonder": true,
 	"cityStrength": 20,
     "uniqueTo": "Wakanda",
-		"uniques": ["Free [Pain] unit appears","[-99]% enemy spy effectiveness [in this city]","[7] free random researchable Tech(s) from the [Industrial era]"],
+		"uniques": ["Free [Pain] unit appears","[-99]% enemy spy effectiveness [in this city]","[7] free random researchable Techs from the [Industrial era]"],
     "quote": "'It is said that in times of disorder, one who wields the Rinnegan is sent down from the heavens to become either a God of Creation who will calm the world or a God of Destruction who will reduce everything to nothingness.'— Jiraiya",
   },
 ]
