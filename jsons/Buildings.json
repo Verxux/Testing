@@ -2,7 +2,7 @@
 {
 		"name": "Passione",
 		"hurryCostModifier": 5,
-    	"isNationalWonder": true;
+    	"isNationalWonder": true,
 	    "uniqueTo": "Wakanda",
 	 	 "gold": 20,
 		"uniques": ["Free [Gold Experience] appears","[-30]% Unhappiness from [Population] [in all cities]","Cannot be purchased"],
@@ -11,7 +11,7 @@
 	{
 		"name": "Grand Budapest Hotel",
 		"hurryCostModifier": 5,
-    	"isNationalWonder": true;
+    	"isNationalWonder": true,
 		"uniqueTo": "Wakanda",
 	 	 "culture": 20,
 		"uniques": ["Free [Great Artist] appears","Cannot be purchased"],
