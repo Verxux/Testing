@@ -2,8 +2,8 @@
 {       
         "name": "Gold Experience",
         "unitType": "Sword",
-        "movement": 4,
-        "strength": 70,
+        "movement": 5,
+        "strength": 90,
         "uniqueTo": "Wakanda",
         "uniques": [
             "All adjacent units heal [+25] HP when healing",
@@ -17,12 +17,24 @@
         "name": "Pain",
         "unitType": "Sword",
         "movement": 5,
-        "strength": 100,
+        "strength": 120,
         "uniqueTo": "Wakanda",
         "uniques": [
             "Unbuildable"
         ],
         "promotions": ["Shock I","Drill I", "Blitz"],
+        
+    },
+        {
+        "name": "Juubidara",
+        "unitType": "Sword",
+        "movement": 6,
+        "strength": 200,
+        "uniqueTo": "Wakanda",
+        "uniques": [
+            "Unbuildable","[This Unit] heals [3] HP <upon entering combat>"
+        ],
+        "promotions": ["Shock I","Drill I", "Blitz","March"],
         
     }
             ]
