@@ -20,7 +20,7 @@
         "strength": 140,
         "uniqueTo": "Wakanda",
         "uniques": [
-            "Unbuildable"
+            "Unbuildable","Ignores Zone of Control"
         ],
         "promotions": ["Shock I","Drill I", "Blitz"],
         
@@ -32,7 +32,7 @@
         "strength": 200,
         "uniqueTo": "Wakanda",
         "uniques": [
-            "[This Unit] heals [50] HP <upon entering combat>","Invisible to others","[5] additional attacks per turn"
+            "[This Unit] heals [50] HP <upon entering combat>","Invisible to others","[5] additional attacks per turn","Ignores Zone of Control"
         ],
         "promotions": ["Shock I","Drill I", "Blitz","March"],
         
