@@ -42,7 +42,7 @@
             "[-30]% Unhappiness from [Population] [in all cities]",
             "[+5 Culture, +5 Science, +3 Happiness] from each Trade Route",
 			"All newly-trained [Military] units [in all cities] receive the [March] promotion",
-			"All newly-trained [Land] units [in all cities] receive the [Ignores terrain cost] promotion",
+			"All newly-trained [Land] units [in all cities] receive the [Ignore terrain cost] promotion",
 			 "Only available <if [Sacred Mound] is constructed>",
             "Will not be displayed in Civilopedia"],
         "quote": "'You have been told that the might of your country is in its wonderful invention, in its circuits and weaponry. This is the mastery of things. But Wakanda was great before it had things, and its secrets are older than any vaulted metal.' - Ramonda"
