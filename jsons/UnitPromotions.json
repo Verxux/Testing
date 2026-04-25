@@ -1,5 +1,7 @@
+[
 {
 		"name": "Furinkazan",
 		"uniques": ["[1] additional attacks per turn","[+3] Movement","Invisible to non-adjacent units","Ignores Zone of Control","Can move after attacking"],
-		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+},
+]
         
