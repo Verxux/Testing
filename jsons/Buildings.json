@@ -6,6 +6,7 @@
         "isWonder": "true",
         "cost": 125,
         "science": 10,
+		"production": 10,
         "uniques": ["[+50]% Strength for cities <when defending>",
             "[+25]% Strength <for [All] units>",
             "[+66]% Strength <for [All] units> <vs [Ranged] units> <when defending>",
@@ -23,7 +24,7 @@
         "cost": 1,
         "science": 5,
         "uniques": ["Provides [1] [Vibranium]",
-            "[+5 Culture, +2 Science, +2 Happiness, +2 Faith, +2 Gold, +2 Food, +2 Production] [in all cities]",
+            "[+5 Culture, +2 Science, +2 Happiness, +2 Faith, +2 Gold, +2 Food, +5 Production] [in all cities]",
 			"[+2 Science, +2 Production] from [All Road] tiles [in all cities]",
 			"[+2 Gold, +2 Food] from [Farm] tiles [in all cities]",
 			"[+3 Gold, +3 Production] from [Mine] tiles [in all cities]",
@@ -50,5 +51,19 @@
             "Will not be displayed in Civilopedia"],
         "quote": "'You have been told that the might of your country is in its wonderful invention, in its circuits and weaponry. This is the mastery of things. But Wakanda was great before it had things, and its secrets are older than any vaulted metal.' - Ramonda"
     },
+	{
+		    },
+	{
+        "name": "Tenka Fubu",
+		"uniqueTo": "Wakanda",
+        "isWonder": "true",
+        "production":10,
+        "cost": 100,
+        "uniques": ["[+100]% Production when constructing [Military] units [in all cities]",
+			"All newly-trained [{Air} {Military}] units [in all cities] receive the [Kamikaze] promotion",
+		    "All newly-trained [Military] units [in all cities] receive the [Quick Study] promotion"
+		]
+	},
+		
 		
 ]
