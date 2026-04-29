@@ -1,11 +1,15 @@
 [
 {
 		"name": "Furinkazan",
-		"uniques": ["[1] additional attacks per turn","[+5] Movement","Invisible to non-adjacent units","Ignores Zone of Control","Can move after attacking"],
+		"uniques": ["[1] additional attacks per turn","[+5] Movement","Invisible to non-adjacent units","Ignores Zone of Control","Can move after attacking","Can move immediately once bought"],
 },
 	{
 		"name": "Kamikaze",
 		"uniques": ["[1] additional attacks per turn","[+25] HP when healing","[+100]% XP gained from combat","[+7] Range","Damage taken from interception reduced by [+50]%"],
+},
+	{
+		"name": "Zenith",
+		"uniques": ["[+7] Movement","Can build [All] improvements at a [+50]% rate","May travel on Water tiles without embarking","Can move immediately once bought"],
 },
 ]
         
