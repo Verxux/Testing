@@ -53,7 +53,9 @@
         "uniques": ["[+100]% Production when constructing [Military] units [in all cities]",
 			"Only available <for [Human player] Civilizations>",
 			"All newly-trained [{Air} {Military}] units [in all cities] receive the [Kamikaze] promotion",
-		    "All newly-trained [Military] units [in all cities] receive the [Quick Study] promotion"
+		    "All newly-trained [Military] units [in all cities] receive the [Quick Study] promotion",
+			"All newly-trained [Worker] units [in all cities] receive the [Zenith] promotion"
+	
 		]
 	},
 	
