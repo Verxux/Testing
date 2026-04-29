@@ -11,5 +11,9 @@
 		"name": "Zenith",
 		"uniques": ["[+7] Movement","Can build [All] improvements at a [+50]% rate","May travel on Water tiles without embarking","Can move immediately once bought"],
 },
+	{
+		"name": "Dao",
+		"uniques": ["[+7] Movement","May travel on Water tiles without embarking","Can move immediately once bought","[+3] Sight"],
+},
 ]
         
