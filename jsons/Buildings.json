@@ -39,6 +39,7 @@
         "uniques": ["Each city founded increases culture cost of policies [50]% less than normal",
             "[-40]% Unhappiness from [Population] [in all cities]",
             "[+5 Culture, +5 Science, +5 Happiness] from each Trade Route",
+			 "Only available <for [Human player] Civilizations>",
 			"All newly-trained [Military] units [in all cities] receive the [March] promotion",
 			"All newly-trained [{non-[Air]} {Military}] units [in all cities] receive the [Furinkazan] promotion",
 			"All newly-trained [Land] units [in all cities] receive the [Ignore terrain cost] promotion",
