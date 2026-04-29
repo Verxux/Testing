@@ -55,9 +55,19 @@
 			"All newly-trained [{Air} {Military}] units [in all cities] receive the [Kamikaze] promotion",
 		    "All newly-trained [Military] units [in all cities] receive the [Quick Study] promotion",
 			"All newly-trained [Worker] units [in all cities] receive the [Zenith] promotion"
-	
-		]
+	]
 	},
+	{
+        "name": "Service to the Heavenly Sun",
+        "isWonder": "true",
+        "cost": 50,
+        "uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion",
+			"Only available <for [Human player] Civilizations>",
+	    	"All [Great Person] units receive the [Dao] promotion",
+			"[+5 Faith] per [3] population [in all cities]"
+	]
+	},
+	"[All] units gain the [Panther Eyes] promotion"
 	
 		
 		
