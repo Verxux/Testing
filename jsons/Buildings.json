@@ -1,8 +1,7 @@
 [
 	{
-        "name": "Secret of Vibranium Alloys",
+        "name": "The Cold Tears of the High Heavens",
         "requiredTech": "Iron Working",
-        "requiredBuilding": "Sacred Mound",
         "isWonder": "true",
         "cost": 125,
         "science": 10,
@@ -12,10 +11,9 @@
             "[+66]% Strength <for [All] units> <vs [Ranged] units> <when defending>",
             "Provides [2] [Iron]",
 			"[+100]% [Strategic] resource production",
-            "Only available <if [Sacred Mound] is constructed>",
-            "Will not be displayed in Civilopedia"],
-        "quote": "'The most versatile substance on the planet, and they used it to build a Frisbee.' - Ultron"
-    },
+            "Only available <for [Human player] Civilizations>",
+            "Will not be displayed in Civilopedia"]
+            },
 	{
         "name": "Sacred Mound",
         "uniqueTo": "Wakanda",
@@ -23,21 +21,17 @@
         "requiredTech": "Agriculture",
         "cost": 1,
         "science": 5,
-        "uniques": ["Provides [1] [Vibranium]",
+        "uniques": [
             "[+5 Culture, +2 Science, +2 Happiness, +2 Faith, +2 Gold, +2 Food, +5 Production] [in all cities]",
 			"[+2 Science, +2 Production] from [All Road] tiles [in all cities]",
 			"[+2 Gold, +2 Food] from [Farm] tiles [in all cities]",
 			"[+3 Gold, +3 Production] from [Mine] tiles [in all cities]",
 			"[+200]% Production towards any buildings that already exist in the Capital",
-            "Free [Black Panther] appears",
-            "Gain a free [Monument] [in this city]",
             "Automatically built in all cities where it is buildable"],
-        "quote": "'I have seen gods fly. I have seen men build weapons that I couldn't even imagine. I have seen aliens drop from the sky. But I have never seen anything like this.' - Everett K. Ross"
     },
 	{
-        "name": "Secret of Enlightened Culture",
+        "name": "Order Out of Choas",
         "requiredTech": "Civil Service",
-        "requiredBuilding": "Sacred Mound",
         "isWonder": "true",
         "science": 1,
         "cost": 160,
@@ -47,17 +41,15 @@
 			"All newly-trained [Military] units [in all cities] receive the [March] promotion",
 			"All newly-trained [{non-[Air]} {Military}] units [in all cities] receive the [Furinkazan] promotion",
 			"All newly-trained [Land] units [in all cities] receive the [Ignore terrain cost] promotion",
-			 "Only available <if [Sacred Mound] is constructed>",
-            "Will not be displayed in Civilopedia"],
-        "quote": "'You have been told that the might of your country is in its wonderful invention, in its circuits and weaponry. This is the mastery of things. But Wakanda was great before it had things, and its secrets are older than any vaulted metal.' - Ramonda"
-    },
+            "Will not be displayed in Civilopedia"]
+	},
 	{
         "name": "Tenka Fubu",
-		"uniqueTo": "Wakanda",
         "isWonder": "true",
         "production":10,
         "cost": 100,
         "uniques": ["[+100]% Production when constructing [Military] units [in all cities]",
+			"Only available <for [Human player] Civilizations>",
 			"All newly-trained [{Air} {Military}] units [in all cities] receive the [Kamikaze] promotion",
 		    "All newly-trained [Military] units [in all cities] receive the [Quick Study] promotion"
 		]
