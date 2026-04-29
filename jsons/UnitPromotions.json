@@ -1,11 +1,11 @@
 [
 {
 		"name": "Furinkazan",
-		"uniques": ["[1] additional attacks per turn","[+3] Movement","Invisible to non-adjacent units","Ignores Zone of Control","Can move after attacking"],
+		"uniques": ["[1] additional attacks per turn","[+5] Movement","Invisible to non-adjacent units","Ignores Zone of Control","Can move after attacking"],
 },
 	{
 		"name": "Kamikaze",
-		"uniques": ["[1] additional attacks per turn","All healing effects doubled","[+100]% XP gained from combat","[+50]% Strength","[+7] Range"],
+		"uniques": ["[1] additional attacks per turn","[+25] HP when healing","[+100]% XP gained from combat","[+7] Range","Damage taken from interception reduced by [+50]%"],
 },
 ]
         
