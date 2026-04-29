@@ -63,7 +63,8 @@
         "cost": 50,
         "uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion",
 			"Only available <for [Human player] Civilizations>",
-	    	"All [Great Person] units receive the [Dao] promotion",
+	    	"[Great Person] units receive the [Dao] promotion",
+			"[All] units receive the [Feint] promotion",
 			"[+5 Faith] per [3] population [in all cities]"
 	]
 	},
