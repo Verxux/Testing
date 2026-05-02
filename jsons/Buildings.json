@@ -67,10 +67,11 @@
 			"[All] units gain the [Feint] promotion",
 			"[+5 Faith] per [3] population [in all cities]",
 			 "[+1 Culture, +1 Science] per every [7] [Gold]",
-			 "[+10 Production] per [2] population [in all cities]"
+			 "[+10 Production] per [2] population [in the capital]",
+			"[+2 Production] per [2] population [in all cities connected to capital]"
+			
 	]
-	},
-	
+},
 		
 		
 ]
