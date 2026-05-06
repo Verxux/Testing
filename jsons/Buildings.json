@@ -9,7 +9,6 @@
         "uniques": ["[+50]% Strength for cities <when defending>",
             "[+25]% Strength <for [All] units>",
             "[+66]% Strength <for [All] units> <vs [Ranged] units> <when defending>",
-            "Provides [2] [Iron]",
 			"[+100]% [Strategic] resource production",
             "Only available <for [Human player] Civilizations>",
             "Will not be displayed in Civilopedia"]
@@ -21,7 +20,7 @@
         "cost": 1,
         "science": 5,
         "uniques": [
-            "[+5 Culture, +2 Science, +2 Happiness, +2 Faith, +2 Gold, +2 Food, +5 Production] [in all cities]",
+            "[+5 Culture, +2 Science, +2 Happiness,+2 Faith,+2 Gold, +2 Food, +5 Production] [in all cities]",
 			"[+2 Science, +2 Production] from [All Road] tiles [in all cities]",
 			"[+2 Gold, +2 Food] from [Farm] tiles [in all cities]",
 			"[+3 Gold, +3 Production] from [Mine] tiles [in all cities]",
@@ -42,7 +41,7 @@
 			 "Only available <for [Human player] Civilizations>",
 			"All newly-trained [Military] units [in all cities] receive the [March] promotion",
 			"All newly-trained [{non-[Air]} {Military}] units [in all cities] receive the [Furinkazan] promotion",
-			"All newly-trained [Land] units [in all cities] receive the [Ignore terrain cost] promotion",
+			"[Land] units gain the [Ignore terrain cost] promotion",
             "Will not be displayed in Civilopedia"]
 	},
 	{
@@ -66,7 +65,7 @@
 	    	"[Great Person] units gain the [Dao] promotion",
 			"[All] units gain the [Feint] promotion",
 			"[+5 Faith] per [3] population [in all cities]",
-			 "[+1 Culture, +1 Science] per every [7] [Gold]",
+			 "[+7 Culture, +2 Science] per every [30] [Gold]",
 			 "[+10 Production] per [2] population [in the capital]",
 			"[+2 Production] per [2] population [in all cities connected to capital]"
 			
