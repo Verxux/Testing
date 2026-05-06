@@ -1,7 +1,6 @@
 [
 	{
         "name": "The Cold Tears of the High Heavens",
-        "requiredTech": "Iron Working",
         "isWonder": "true",
         "cost": 125,
         "science": 10,
@@ -16,11 +15,10 @@
 	{
         "name": "Court of Sun and the Heavens",
         "isWonder": "true",
-        "requiredTech": "Agriculture",
         "cost": 1,
         "science": 5,
         "uniques": [
-            "[+5 Culture, +2 Science, +2 Happiness,+2 Faith,+2 Gold, +2 Food, +5 Production] [in all cities]",
+            "[+5 Culture, +2 Science, +2 Happiness, +2 Gold, +2 Food, +5 Production] [in all cities]",
 			"[+2 Science, +2 Production] from [All Road] tiles [in all cities]",
 			"[+2 Gold, +2 Food] from [Farm] tiles [in all cities]",
 			"[+3 Gold, +3 Production] from [Mine] tiles [in all cities]",
@@ -31,7 +29,6 @@
     },
 	{
         "name": "Order Out of Choas",
-        "requiredTech": "Civil Service",
         "isWonder": "true",
         "science": 1,
         "cost": 160,
