@@ -75,8 +75,8 @@
         "uniques": [
             "[+1 Gold] from [Camp] tiles [in all cities]",
 			"[+1 Gold] from [Trading post] tiles [in all cities]",
-			"[+2 Production,+2 Gold] from [Oil well] tiles [in all cities]",
-			"[+2 Production,+2 Gold] from [Offshore Platform] tiles [in all cities]",
+			"[+2 Production, +2 Gold] from [Oil well] tiles [in all cities]",
+			"[+2 Production, +2 Gold] from [Offshore Platform] tiles [in all cities]",
 			"[+1 Production] from [Quarry] tiles [in all cities]",
 			"[+1 Food] from [Pasture] tiles [in all cities]",
 			"[+1 Gold] from [Plantation] tiles [in all cities]",
