@@ -9,7 +9,7 @@
 },
 	{
 		"name": "Zenith",
-		"uniques": ["[+5] Movement","Can build [All] improvements at a [+50]% rate","May travel on Water tiles without embarking"],
+		"uniques": ["[+5] Movement","Can build [All] improvements at a [+50]% rate","May travel on Water tiles without embarking","Can build [Great Improvememt] improvements on tiles"],
 },
 	{
 		"name": "Dao",
