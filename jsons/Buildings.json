@@ -6,12 +6,12 @@
         "science": 10,
 		"production": 10,
         "uniques": ["[+50]% Strength for cities <when defending>",
-            "[+25]% Strength <for [All] units>",
+            "[+20]% Strength <for [All] units>",
             "[+66]% Strength <for [All] units> <vs [Ranged] units> <when defending>",
 			"[+100]% [Strategic] resource production",
+			"[+100]% [Luxury] resource production",
             "Only available <for [Human player] Civilizations>",
-            "Will not be displayed in Civilopedia"]
-            },
+         },
 	{
         "name": "Court of Sun and the Heavens",
         "isWonder": "true",
