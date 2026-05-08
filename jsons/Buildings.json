@@ -2,7 +2,7 @@
 	{
         "name": "The Cold Tears of the High Heavens",
         "isWonder": "true",
-        "cost": 125,
+        "cost": 25,
         "science": 10,
 		"production": 10,
         "uniques": ["[+50]% Strength for cities <when defending>",
@@ -18,11 +18,11 @@
         "cost": 1,
         "science": 5,
         "uniques": [
-            "[+5 Culture, +2 Science, +2 Happiness, +2 Gold, +2 Food, +5 Production] [in all cities]",
-			"[+2 Science, +2 Production] from [All Road] tiles [in all cities]",
-			"[+2 Gold, +2 Food] from [Farm] tiles [in all cities]",
-			"[+3 Gold, +3 Production] from [Mine] tiles [in all cities]",
-			"[+2 Gold, +2 Food] from [Fishing Boats] tiles [in all cities]",
+            "[+2 Culture, +2 Science, +2 Happiness, +2 Gold, +2 Food, +2 Production] [in all cities]",
+			"[+1 Production] from [All Road] tiles [in all cities]",
+			"[+1 Gold] from [Farm] tiles [in all cities]",
+			"[+1 Production] from [Mine] tiles [in all cities]",
+			"[+1 Food] from [Fishing Boats] tiles [in all cities]",
 			"Only available <for [Human player] Civilizations>",
 			"[+200]% Production towards any buildings that already exist in the Capital",
             "Automatically built in all cities where it is buildable"],
@@ -31,7 +31,7 @@
         "name": "Order Out of Choas",
         "isWonder": "true",
         "science": 1,
-        "cost": 160,
+        "cost": 25,
         "uniques": ["Each city founded increases culture cost of policies [50]% less than normal",
             "[-40]% Unhappiness from [Population] [in all cities]",
             "[+5 Culture, +5 Science, +5 Happiness] from each Trade Route",
@@ -45,7 +45,7 @@
         "name": "Tenka Fubu",
         "isWonder": "true",
         "production":10,
-        "cost": 100,
+        "cost": 25,
         "uniques": ["[+100]% Production when constructing [Military] units [in all cities]",
 			"Only available <for [Human player] Civilizations>",
 			"All newly-trained [{Air} {Military}] units [in all cities] receive the [Kamikaze] promotion",
@@ -56,18 +56,31 @@
 	{
         "name": "Service to the Heavenly Sun",
         "isWonder": "true",
-        "cost": 50,
-        "uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion",
+        "cost": 25,
+        "uniques": ["May choose [2] additional belief(s) of any type when [founding] a religion",
 			"Only available <for [Human player] Civilizations>",
 	    	"[Great Person] units gain the [Dao] promotion",
-			"[All] units gain the [Feint] promotion",
-			"[+5 Faith] per [3] population [in all cities]",
-			 "[+7 Culture, +2 Science] per every [30] [Gold]",
-			 "[+10 Production] per [2] population [in the capital]",
-			"[+2 Production] per [2] population [in all cities connected to capital]"
+			"[+1 Faith] per [3] population [in all cities]",
+			 "[+1 Culture, +1 Science] per every [30] [Gold]",
+			 "[+2 Production] per [1] population [in the capital]",
+			"[+1 Production] per [3] population [in all cities connected to capital]"
 			
 	]
 },
-		
+	{
+		"name": "Mandate of Heaven",
+        "isWonder": "true",
+        "cost": 1,
+        "uniques": [
+            "[+1 Gold] from [Camp] tiles [in all cities]",
+			"[+1 Gold] from [Trading post] tiles [in all cities]",
+			"[+2 Production,+2 Gold] from [Oil well] tiles [in all cities]",
+			"[+2 Production,+2 Gold] from [Offshore] tiles [in all cities]",
+			"[+1 Production] from [Quarry] tiles [in all cities]",
+			"[+1 Food] from [Pasture] tiles [in all cities]",
+			"[+1 Gold] from [Plantation] tiles [in all cities]",
+		    "Only available <for [Human player] Civilizations>",
+			  ],
+    },
 		
 ]
