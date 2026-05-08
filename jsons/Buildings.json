@@ -10,7 +10,7 @@
             "[+66]% Strength <for [All] units> <vs [Ranged] units> <when defending>",
 			"[+100]% [Strategic] resource production",
 			"[+100]% [Luxury] resource production",
-            "Only available <for [Human player] Civilizations>",
+            "Only available <for [Human player] Civilizations>"],
          },
 	{
         "name": "Court of Sun and the Heavens",
