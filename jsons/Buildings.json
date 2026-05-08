@@ -20,7 +20,7 @@
         "uniques": [
             "[+2 Culture, +2 Science, +2 Happiness, +2 Gold, +2 Food, +2 Production] [in all cities]",
 			"[+1 Production] from [All Road] tiles [in all cities]",
-			"[+1 Gold] from [Farm] tiles [in all cities]",
+			"[+1 Food] from [Farm] tiles [in all cities]",
 			"[+1 Production] from [Mine] tiles [in all cities]",
 			"[+1 Food] from [Fishing Boats] tiles [in all cities]",
 			"Only available <for [Human player] Civilizations>",
